@@ -23,7 +23,7 @@
 <a href = "mailto:Ruwanpradeep9911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ruwan-pradeep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruwan-pradeep/" height="25" width="25" />&nbsp;&nbsp;</a><a href="https://www.hackerrank.com/ruwanpradeep876" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="ruwanpradeep876" height="25" width="25" />&nbsp;&nbsp;</a></p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ruwan-pradeep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruwan-pradeep/" height="25" width="25" /></a><a href="https://www.hackerrank.com/ruwanpradeep876" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="ruwanpradeep876" height="25" width="25" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
