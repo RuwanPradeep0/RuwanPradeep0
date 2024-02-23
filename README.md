@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruwan Pradeep</h1>
 <h3 align="center">Computer Engineering Undergraduate</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ruwanpradeep0&label=Profile%20views&color=0e75b6&style=flat" alt="Ruwanpradeep0" /> </p>
 
 - 🔭 I’m currently working on **Full stack Development**
 
