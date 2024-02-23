@@ -50,8 +50,8 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwanpradeep0&langs_count=8&theme=transparent" alt=Ruwanpradeep0 />
+<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwanpradeep0&langs_count=8&theme=transparent" alt=Ruwanpradeep0 />
 
-<p><img align="center" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruwanpradeep0&theme=transparent" alt="Ruwanpradeep0" /></p>
+<p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruwanpradeep0&theme=transparent" alt="Ruwanpradeep0" /></p>
 
 
