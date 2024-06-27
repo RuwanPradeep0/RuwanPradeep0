@@ -9,7 +9,7 @@
 I'm Ruwan Pradeep, an enthusiastic undergraduate computer engineering student at the University of Jaffna. My areas of expertise and interest include:
 
 
-<h4 align="start">
+<h4 align="center">
 
   •&nbsp;<b>Spring Boot</b>
   &nbsp;&nbsp;&nbsp; •&nbsp;
@@ -24,11 +24,11 @@ I'm Ruwan Pradeep, an enthusiastic undergraduate computer engineering student at
   <b>Deep Learning</b>
    &nbsp;&nbsp;&nbsp; •&nbsp;
   <b>Generative AI</b>
-  &nbsp;&nbsp;&nbsp; •&nbsp;
-  <b>LangChain4j</b>
+
 
 </h4>
 
+<br>
 
 
 <code/></code>&nbsp;&nbsp;&nbsp; I’m currently working on **Full stack Development**
@@ -53,7 +53,7 @@ I'm Ruwan Pradeep, an enthusiastic undergraduate computer engineering student at
 | <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=140706867" target="_blank" style="display: block" align="center">   <picture>     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=140706867&image_size=auto&color_scheme=dark" width="500" height="auto">     <img alt="Dashboard stats of @RuwanPradeep0" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=140706867&image_size=auto&color_scheme=light" width="500" height="auto">   </picture> </a> | <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=140706867&activity_type=all" target="_blank" style="display: block" align="center">   <picture>     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=140706867&activity_type=all&image_size=auto&color_scheme=dark" width="500" height="auto">     <img alt="@RuwanPradeep0's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=140706867&activity_type=all&image_size=auto&color_scheme=light" width="500" height="auto">   </picture> </a> |
 
 
-## Contact me
+## Connect with me:
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ruwan-pradeep/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
 <a href="https://github.com/Ruwanpradeep0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
